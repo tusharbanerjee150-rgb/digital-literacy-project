@@ -25,9 +25,9 @@ The problem helped me understand basic programming logic and problem-solving tec
 ### Screenshot:
 ![HackerRank](task-3-platforms/hackerrank-output.png)
 ### Solution Code:
-[HackerRank](task-3-platforms/hackerrank-code.png)
+[View Code](task-3-platforms/hackerrank-code.png)
 
 
 ## Task 3 – Digital Literacy Quiz
 
-[Take the Quiz]((https://docs.google.com/forms/d/e/1FAIpQLSeOqZxSdiptd01qie2mGUj1OXzL-_vufyD-PzMGt1LJyWUzZA/viewform?usp=dialog))
+[Take the Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeOqZxSdiptd01qie2mGUj1OXzL-_vufyD-PzMGt1LJyWUzZA/viewform?usp=dialog)
