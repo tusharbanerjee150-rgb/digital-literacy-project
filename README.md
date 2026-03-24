@@ -26,7 +26,7 @@ The problem helped me understand basic programming logic and problem-solving tec
 
 ## Task 3 – Digital Literacy Quiz
 [Take the Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeOqZxSdiptd01qie2mGUj1OXzL-_vufyD-PzMGt1LJyWUzZA/viewform?usp=dialog)
-
+[View Response](task-3-platforms/response.png)
 
 ## Task 4 – Email Etiquette & Social Media Guidelines
 In this task, I drafted two professional emails and created a checklist for responsible social media usage.
