@@ -1,4 +1,7 @@
 # digital-literacy-project
+Name: Tushar Kumar Banerjee  
+Reg No: 25BAI10677  
+Course: CSE0001 – Digital Literacy
 
 ## Task 1 – Digital Literacy Infographic
 I created an infographic using Canva covering digital literacy, safe internet practices, and email etiquette.
@@ -16,17 +19,17 @@ I created my profiles on GitHub, LinkedIn, and Kaggle to build a professional di
 ![Kaggle](task-2-portfolio/kaggle-profile.png)
 
 
-## Task 3 – Coding Practice (HackerRank)
+## Task 3 – Coding Practice (HackerRank) and Collaboration (Google Forms)
 I created an account on HackerRank and completed a beginner-level problem to improve my coding skills.
 The problem helped me understand basic programming logic and problem-solving techniques. Practising on platforms like HackerRank is useful for building a strong foundation in coding and preparing for technical interviews.
 ### Screenshot:
 ![HackerRank](task-3-platforms/hackerrank-output.png)
 ### Solution Code:
-[View Code](task-3-platforms/hackerrank-code.png)
-
-## Task 3 – Digital Literacy Quiz
+[View Code](task-3-platforms/solution.py)
 [Take the Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeOqZxSdiptd01qie2mGUj1OXzL-_vufyD-PzMGt1LJyWUzZA/viewform?usp=dialog)
-[View Response](task-3-platforms/response.png)
+### Form Screenshot:
+![Form](task-3-platforms/form.png)
+![View Response](task-3-platforms/responses.png)
 
 ## Task 4 – Email Etiquette & Social Media Guidelines
 In this task, I drafted two professional emails and created a checklist for responsible social media usage.
