@@ -29,6 +29,7 @@ The problem helped me understand basic programming logic and problem-solving tec
 [Take the Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeOqZxSdiptd01qie2mGUj1OXzL-_vufyD-PzMGt1LJyWUzZA/viewform?usp=dialog)
 ### Form Screenshot:
 ![Form](task-3-platforms/form.png)
+### Response Screenshot:
 ![View Response](task-3-platforms/responses.png)
 
 ## Task 4 – Email Etiquette & Social Media Guidelines
