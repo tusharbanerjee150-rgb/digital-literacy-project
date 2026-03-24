@@ -26,6 +26,7 @@ The problem helped me understand basic programming logic and problem-solving tec
 ![HackerRank](task-3-platforms/hackerrank-output.png)
 ### Solution Code:
 [View Code](task-3-platforms/solution.py)
+### Quiz link:
 [Take the Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeOqZxSdiptd01qie2mGUj1OXzL-_vufyD-PzMGt1LJyWUzZA/viewform?usp=dialog)
 ### Form Screenshot:
 ![Form](task-3-platforms/form.png)
