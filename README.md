@@ -40,7 +40,7 @@ In this task, I drafted two professional emails and created a checklist for resp
 These emails follow proper structure, including a clear subject line, professional tone, and appropriate sign-off.
 I also created a "Do’s and Don’ts" checklist for social media to promote responsible and safe online behavior among students.
 ### Files:
-- [Emails](task-4-email-etiquette/emails.txt)
+- [Emails](task-4-email-etiquette/email.txt)
 - [Social Media Checklist](task-4-email-etiquette/social-media-checklist.txt)
 
 
